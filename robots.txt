@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+# Review package. Replace with the live policy when ready to launch.
