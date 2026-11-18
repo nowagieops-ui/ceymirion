@@ -1,0 +1,1 @@
+Rowland, B. S. & CEYMIRION Limited (2025). Anchor Continuity & Identity System (ACIS): A Model-Agnostic Approach to Preserving Human-Anchored AI Identity Across Vendors and Model Upgrades. Zenodo. https://doi.org/10.5281/zenodo.17928018
